@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jesseechen0139/mango/_apis/build/status/jesseechen11903.pipelines-java?branchName=master)](https://dev.azure.com/jesseechen0139/mango/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
